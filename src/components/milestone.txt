@@ -1,0 +1,2 @@
+5 Milestones, Home page,Login will be a milestone, Pages linked in the navbar wiil be a milestone, Dashboard and all related pages will be a milestone, All the popups will be a Milestones ,and fixing all bugs will be a milestone.
+
